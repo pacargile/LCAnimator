@@ -2,6 +2,7 @@
 #
 #    create phased LC plots for a LC animation
 #
+#
 # Joshua Pepper 
 # editted by Phill Cargile to fit in LCAnimator
 #--------------------------------------------------------------------------
